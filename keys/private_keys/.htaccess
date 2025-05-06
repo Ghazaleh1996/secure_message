@@ -1,0 +1,4 @@
+<Directory "/keys/private_keys/">
+    Order Deny,Allow
+    Deny from all
+</Directory>

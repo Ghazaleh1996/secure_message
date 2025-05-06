@@ -1,0 +1,6 @@
+{
+    "name": "ghazalehhassanzadeh/secure_message",
+    "require": {
+        "phpseclib/phpseclib": "^3.0"
+    }
+}
